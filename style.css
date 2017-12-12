@@ -3,6 +3,7 @@
   width: 1000px;
   height: 1500px;
   margin: 0;
+  
 }
 
 .left-navigator,
@@ -38,7 +39,7 @@
 .header h2 {
   color: white;
   background-color: #3a7ea6;
-  font-size: 35px;
+  font-size: 34.2px;
   padding: 10px 660px 10px 20px;
   padding-left: 20px;
   margin: 83px 0 0 0 0;
